@@ -9066,10 +9066,10 @@ HOSTILE_ENVIRONMENT_LABEL
 '''%1% Feindliche Umgebung'''
 
 ENV_ENCAPSUL_LABEL
-'''%1% Environmental Encapsulation'''
+'''%1% ökologische Abkapselung'''
 
 SELF_SUSTAINING_LABEL
-'''Self-Sustaining'''
+'''Autark'''
 
 TUNNELS_LABEL
 '''Unterirdische Tunnel/Wohnanlagen Bonus'''
@@ -9156,16 +9156,16 @@ OUTPOST_TROOP_LABEL
 '''Außenposten'''
 
 VERY_BRIGHT_STAR
-'''Very bright star'''
+'''Sehr heller Stern'''
 
 BRIGHT_STAR
-'''Bright star'''
+''Heller Stern'''
 
 DIM_STAR
-'''Dim star'''
+'''Trüber Stern'''
 
 NO_STAR
-'''No star'''
+'''Kein Stern'''
 
 HOMEWORLD_SUPPLY
 '''Versorgung der Heimatwelt'''
@@ -9192,16 +9192,16 @@ EXCELLENT_VISION_LABEL
 '''Ausgezeichnete Sicht'''
 
 FOCUS_PROTECTION_LABEL
-'''Protection Focus'''
+'''Fokusiert Sicherung'''
 
 XENOPHOBIC_LABEL_SELF
-'''Xenophobic Frenzy (other species nearby)'''
+'''Wahnsinning xenophob (andere Spezies in der Nähe)'''
 
 XENOPHOBIC_LABEL_TRITH_OTHER
-'''Xenophobic Harassment: Trith'''
+'''Xenophobe Bedrohung: Trith'''
 
 XENOPHOBIC_LABEL_EAXAW_OTHER
-'''Xenophobic Harassment: Eaxaw'''
+'''Xenophobe Bedrohung: Eaxaw'''
 
 #############################################################
 ####                       T A G S                       ####
