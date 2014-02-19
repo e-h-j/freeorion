@@ -789,10 +789,10 @@ OPTIONS_DB_EXTERNAL_SERVER_ADDRESS
 Verbindungsadresse für externen Servermodus. Wird der Wert gesetzt wird dieser Client der Manager des Spiels.
 
 OPTIONS_DB_MP_HOST_ADDRESS
-Address to connect to when joining a multiplayer game.
+Adresse zu der eine Verbindung hergestellt wird, sobald eine Mehrspielersitzung betreten wird.
 
 OPTIONS_DB_MP_PLAYER_NAME
-Player name to use when hosting or joining a multiplayer game.
+Spielername für Mehrspielersitzungen.
 
 OPTIONS_DB_UI_MAIN_MENU_X
 Position der Mitte des Intro Hauptmenüs, als Teil der Gesamtbreite der Anwendung.
@@ -801,10 +801,10 @@ OPTIONS_DB_UI_MAIN_MENU_Y
 Position der Mitte des Intro Hauptmenüs, als Teil der Gesamthöhe der Anwendung.
 
 OPTIONS_DB_APP_WIDTH
-Sets horizontal app resolution in fullscreen mode. Options are determined by the rendering plugin, and may not match the actual monitor size.
+Setzt die horizontale Auflösung im Vollbildmodus. Optionen werden vom Render-Plugin bestimmt und müssten nicht zur aktuellen Auflösung passen.
 
 OPTIONS_DB_APP_HEIGHT
-Sets vertical app resolution in fullscreen mode. Options are determined by the rendering plugin, and may not match the actual monitor size.
+Setzt die vertikale Auflösung im Vollbildmodus. Optionen werden vom Render-Plugin bestimmt und müssten nicht zur aktuellen Auflösung passen.
 
 OPTIONS_DB_APP_WIDTH_WINDOWED
 Setzt die horizontale Auflösung des Fenstermodus
